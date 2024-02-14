@@ -3,7 +3,7 @@ Learn Basic JavaScript by building a role playing game.  This includes working w
 
 ## Deployment
 
-[Live Project](https://derektypist.github.io/build-a-role-playing-game)
+[Live Project](https://derektypist.github.io/build-a-role-playing-game) is deployed from the main branch.
 
 ## Credits
 

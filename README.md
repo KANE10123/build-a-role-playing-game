@@ -9,4 +9,4 @@ Learn Basic JavaScript by building a role playing game.  This includes working w
 
 ### Acknowledgements
 
-[FreeCodeCamp - Learn Basic JavaScript ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/learn-basic-javascript-by-building-a-role-playing-game/)
+[FreeCodeCamp - Learn Basic JavaScript ](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/)
